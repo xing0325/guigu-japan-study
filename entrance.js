@@ -1,6 +1,7 @@
 /* A single printed WebGL cloth. Geometry, texture and lighting move together. */
 (()=>{
   'use strict';
+  const t=window.guiguLocale.t;
   const entry=document.getElementById('cloth-entry');
   const canvas=document.getElementById('cloth-canvas');
   const enter=document.getElementById('cloth-enter');
@@ -85,31 +86,27 @@
     const sheet=document.createElement('canvas');
     const ratio=Math.min(2,4096/Math.max(width,height));sheet.width=Math.round(width*ratio);sheet.height=Math.round(height*ratio);
     const c=sheet.getContext('2d');c.scale(ratio,ratio);
+    const family=window.guiguLocale.lang==='ja'?'"Guigu Maru",sans-serif':'"Guigu Sans",sans-serif';
     const mobile=width<650,pad=mobile?25:width*.048,ink='#3439ce';
     c.fillStyle='#ffffff';c.fillRect(0,0,width,height);c.fillStyle=ink;c.textBaseline='top';
     const text=(str,x,y,font,color=ink)=>{c.font=font;c.fillStyle=color;c.fillText(str,x,y)};
-    text('龟谷择校',pad,mobile?28:33,`700 ${mobile?21:25}px "Noto Sans SC","Microsoft YaHei",sans-serif`);
-    text('GUI GU / SCHOOL NAVIGATOR',pad,mobile?61:68,`500 ${mobile?8:9}px Arial`);
-    c.textAlign='right';text('JAPAN',width-pad,mobile?30:36,'700 12px Arial');text('留学，从你的选择开始',width-pad,mobile?49:58,`${mobile?8:10}px "Noto Sans SC",sans-serif`);c.textAlign='left';
+    text(t('龟谷择校'),pad,mobile?28:33,`700 ${mobile?21:25}px ${family}`);
     const top=mobile?height*.235:Math.max(115,height*.225);
-    const fontSize=mobile?Math.min(width*.208,height*.125):Math.min(width*.147,height*.244);
+    const fontScale=window.guiguLocale.lang==='ja'?.78:1;
+    const fontSize=fontScale*(mobile?Math.min(width*.208,height*.125):Math.min(width*.147,height*.244));
     // Keep the lettering on the texture, so it bends with the fabric.
-    text('YOUR NEXT',pad+2,top-36,`italic 800 ${mobile?20:Math.min(36,width*.027)}px Arial`);
-    c.font=`900 ${fontSize}px "Noto Sans SC","Microsoft YaHei",sans-serif`;
-    const first='下一站，',second='去日本。';
+    c.font=`600 ${fontSize}px ${family}`;
+    const first=t('下一站，'),second=t('去日本。');
     text(first,pad-fontSize*.04,top,c.font);
     const lineY=top+fontSize*1.14;
-    text(second,pad+width*(mobile?.07:.14),lineY,`900 ${fontSize}px "Noto Sans SC","Microsoft YaHei",sans-serif`);
+    text(second,pad+width*(mobile?.07:.14),lineY,`600 ${fontSize}px ${family}`);
     // A small directional seal is printed on the cloth too.
     const cx=width-pad-(mobile?20:38),cy=top+(mobile?fontSize*.51:fontSize*.4),radius=mobile?19:34;
     c.fillStyle='#e3e4ff';c.beginPath();c.arc(cx,cy,radius,0,Math.PI*2);c.fill();
     c.strokeStyle=ink;c.lineWidth=mobile?2:3;c.beginPath();c.moveTo(cx-radius*.35,cy+radius*.35);c.lineTo(cx+radius*.32,cy-radius*.32);c.moveTo(cx-radius*.25,cy-radius*.32);c.lineTo(cx+radius*.32,cy-radius*.32);c.lineTo(cx+radius*.32,cy+radius*.25);c.stroke();
     const descY=Math.min(height-137,lineY+fontSize*1.28);
-    text('让每一个选择，都更接近你。',pad,descY,`${mobile?12:14}px "Noto Sans SC",sans-serif`);
-    text('FIND YOUR SCHOOL.  FIND YOURSELF.',pad,descY+26,`${mobile?8:9}px Arial`,'#777787');
-    if(!mobile){c.textAlign='right';text('東京 / 大阪 / 日本全境',width-pad,descY,'11px "Noto Sans SC",sans-serif');text('LANGUAGE · CULTURE · POSSIBILITY',width-pad,descY+24,'9px Arial','#777787');c.textAlign='left'}
+    text(t('让每一个选择，都更接近你。'),pad,descY,`${mobile?12:14}px ${family}`);
     c.strokeStyle='#3439ce30';c.lineWidth=1;c.beginPath();c.moveTo(pad,height-87);c.lineTo(width-pad,height-87);c.stroke();
-    if(!mobile)text('01 — A NEW BEGINNING',pad,height-55,'9px Arial');
     gl.bindTexture(gl.TEXTURE_2D,texture);gl.texImage2D(gl.TEXTURE_2D,0,gl.RGBA,gl.RGBA,gl.UNSIGNED_BYTE,sheet);
   }
   function resize(){
@@ -177,6 +174,7 @@
     if(e.key==='Tab'){e.preventDefault();(document.activeElement===enter?skip:enter).focus()}
   },eventOptions);
   addEventListener('resize',resize,eventOptions);
+  addEventListener('languagechange',printPoster,eventOptions);
   canvas.addEventListener('webglcontextlost',e=>{e.preventDefault();finish()},eventOptions);
   try{setup();resize();if(program)raf=requestAnimationFrame(render);else entry.classList.add('no-webgl')}
   catch(error){console.warn('Cloth renderer unavailable; using accessible poster.',error);program=null;entry.classList.remove('has-webgl');entry.classList.add('no-webgl')}

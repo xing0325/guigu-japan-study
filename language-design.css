@@ -1,0 +1,129 @@
+@font-face{font-family:"Guigu Sans";src:url("assets/fonts/guigu-sans.woff2") format("woff2");font-style:normal;font-weight:100 900;font-display:swap}
+@font-face{font-family:"Guigu Maru";src:url("assets/fonts/guigu-maru.woff2") format("woff2");font-style:normal;font-weight:400;font-display:swap}
+@font-face{font-family:"Guigu Maru";src:url("assets/fonts/guigu-maru-medium.woff2") format("woff2");font-style:normal;font-weight:500 700;font-display:swap}
+
+:root{--muted:#686876;--body-font:"Guigu Sans","PingFang SC","Microsoft YaHei UI",sans-serif;font-family:var(--body-font);font-size:15px;-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}
+html:lang(ja){--body-font:"Guigu Maru","Hiragino Maru Gothic ProN","Yu Gothic",sans-serif}
+button,input,select{font-family:var(--body-font)}
+.brand-title{font-size:26px;font-weight:600;letter-spacing:2px;white-space:nowrap}
+.main-tabs{gap:32px}
+.main-tabs button{font-size:15px;letter-spacing:.03em}
+.header-actions{display:flex;align-items:center;gap:24px}
+.saved-toggle{font-size:14px;padding:10px 16px;white-space:nowrap}
+.saved-toggle span{margin-left:0}
+.saved-toggle #saved-count{margin-left:8px;font-variant-numeric:tabular-nums}
+.language-switch{display:flex;align-items:center;gap:9px;white-space:nowrap}
+.language-switch>span{color:#c1c1cc;font-size:13px}
+.language-switch button{position:relative;border:0;padding:8px 0;background:none;font-size:14px;color:var(--muted);transition:color .2s}
+.language-switch button[aria-pressed=true]{color:var(--blue);font-weight:600}
+.language-switch button:after{content:"";position:absolute;bottom:1px;left:0;right:0;height:1px;background:var(--blue);transform:scaleX(0);transition:transform .25s}
+.language-switch button:hover:after,.language-switch button[aria-pressed=true]:after{transform:scaleX(1)}
+.journal-hero{padding-top:24px;padding-bottom:24px;background:none;border-bottom:1px solid var(--line)}
+.hero-main{padding-top:20px;min-height:600px;grid-template-columns:51% 49%}
+.hero-copy h1{font-family:var(--body-font);font-size:clamp(52px,5.25vw,78px);font-weight:500;line-height:1.48;letter-spacing:.04em}
+.brush-underline:after{height:5px;bottom:3px;opacity:.75}
+.hero-caption{display:block;margin-top:30px}
+.hero-caption p{font-size:16px;line-height:1.9;margin:0 0 24px;color:var(--muted)}
+.round-link{font-size:16px;gap:24px}
+.hero-drawing{margin:0 -10px 0 -25px}
+.hero-foot{justify-content:flex-end;margin-top:0}
+.scroll-cue{font-size:14px;letter-spacing:.02em}
+.city-section{padding-top:76px}
+.section-heading h2,.everyday-section h2,.map-note h2{font-family:var(--body-font);font-weight:500;letter-spacing:.03em;line-height:1.65}
+.section-heading h2{font-size:36px;margin:0}
+.section-heading p{font-size:15px;line-height:1.9}
+.objects-drawing{width:150px}
+.city-card h3{font-size:26px;font-weight:500;letter-spacing:.04em}
+.city-card p{font-size:15px;line-height:1.9;margin-bottom:0}
+.city-card{padding-bottom:24px}
+.line-link{font-size:15px;line-height:1.8}
+.city-section>.line-link{width:240px}
+.everyday-section h2{font-size:33px;margin-top:0}
+.everyday-section p{font-size:16px;line-height:2.2}
+.map-note h2{font-size:32px}
+.map-note p{font-size:16px;line-height:1.9}
+.blue-button{font-size:15px}
+footer{font:14px/1.8 var(--body-font);letter-spacing:0}
+footer button,footer small{font:13px/1.8 var(--body-font)}
+.workspace-heading{padding:32px 0 26px}
+.workspace-heading h1{font-size:34px;font-weight:500;letter-spacing:.03em;margin:0}
+.workspace-heading img{margin-left:auto}
+.filter-bar{grid-template-columns:1fr 1.25fr 1fr 1.3fr 1.35fr 80px;padding:18px}
+.filter-bar>label{padding-inline:14px}
+.filter-bar>label>span{font-size:13px;letter-spacing:0}
+.filter-bar input,.filter-bar select,.select-trigger,.select-option{font-size:14px}
+.select-trigger{min-height:25px}
+.select-option{padding:12px}
+.filter-reset{font-size:14px;padding-left:14px}
+.workspace-toolbar strong{font-size:15px}
+.workspace-toolbar #profile-note{font-size:13px;line-height:1.7}
+.school-meta{font-size:13px;letter-spacing:.02em;line-height:1.8}
+.school-info h3{font-size:19px;font-weight:500;line-height:1.7;margin:10px 0 12px}
+.school-info p{font-size:14px;line-height:1.8}
+.empty-state h3{font-size:22px;font-weight:500}
+.empty-state p,.empty-state button{font-size:15px;line-height:1.9}
+body.map-mode #workspace{height:calc(100svh - 72px);display:flex;flex-direction:column;padding-bottom:20px}
+body.map-mode .workspace-heading,body.map-mode .filter-bar,body.map-mode .workspace-toolbar{flex-shrink:0}
+body.map-mode .workspace-heading{padding:18px 0}
+body.map-mode .workspace-heading h1{font-size:25px;font-weight:500;margin:0}
+body.map-mode .workspace-heading img{width:58px}
+body.map-mode #panel-map{flex:1;min-height:0}
+.map-layout{grid-template-columns:330px 1fr;height:100%;min-height:0}
+.map-list-heading{font-size:15px;align-items:center}
+.map-list-heading small{font-size:13px}
+.map-row small{font-size:13px;line-height:1.7}
+.map-row strong{font-size:16px;font-weight:500;line-height:1.75}
+.map-row>span{font-size:13px;line-height:1.8}
+.map-fit{font-size:14px}
+.map-legend{font-size:13px}
+.map-status{font-size:15px}
+.map-school-detail small{font-size:13px}
+.map-school-detail h3{font-size:19px;font-weight:500;line-height:1.75}
+.map-school-detail p{font-size:14px;line-height:1.9}
+.map-school-detail .line-link{position:static;font-size:15px}
+.maplibregl-popup-content{font:14px/1.7 var(--body-font);padding:12px}
+.detail-body h2{font-size:28px;font-weight:500}
+.detail-body p,.detail-body dl{font-size:15px;line-height:2}
+.detail-body dl{grid-template-columns:90px 1fr}
+.detail-body .photo-source{font-size:13px;color:var(--blue);margin:0}
+.detail-actions button,.detail-actions a{font-size:14px}
+.toast{font-size:15px}
+.cloth-enter,.cloth-skip{font-size:15px;letter-spacing:.03em}
+.cloth-fallback strong{font-family:var(--body-font);font-weight:600}
+html:lang(ja) .brand-title{font-size:24px;letter-spacing:1px}
+html:lang(ja) .section-heading h2{font-size:34px}
+html:lang(ja) .map-note h2{font-size:30px}
+
+@media(max-width:1200px){
+ .site-header{padding-inline:28px}.main-tabs{gap:22px}.header-actions{gap:16px}
+ .brand-title{font-size:24px}html:lang(ja) .brand-title{font-size:21px}
+ .hero-copy h1{font-size:58px}.hero-main{min-height:540px}
+ .hero-caption p{font-size:15px}.everyday-section{gap:35px}
+ .section-heading h2,html:lang(ja) .section-heading h2{font-size:30px}
+ .section-heading p{font-size:14px}.objects-drawing{width:130px;margin-right:25px}
+ .filter-bar>label{padding-inline:10px}.filter-bar{grid-template-columns:.9fr 1.1fr 1fr 1.2fr 1.25fr 75px}
+ .filter-bar input,.select-trigger,.select-option{font-size:13px}
+ .map-layout{grid-template-columns:300px 1fr}
+}
+@media(max-width:900px) and (min-width:761px){
+ .site-header{padding-inline:20px}.main-tabs{gap:15px}.main-tabs button{font-size:14px}
+ .header-actions{gap:12px}.saved-toggle{padding:8px 10px;font-size:12px}
+ .brand-title,html:lang(ja) .brand-title{font-size:20px}.language-switch{gap:5px}.language-switch button{font-size:12px}
+}
+@media(max-width:760px){
+ .site-header{padding:15px 20px 0}.brand-title,html:lang(ja) .brand-title{font-size:20px;letter-spacing:0}
+ .header-actions{gap:12px}.saved-toggle{font-size:12px;padding:7px 9px}.saved-toggle #saved-count{margin-left:3px}
+ .language-switch{gap:6px}.language-switch button{font-size:12px}.main-tabs button{font-size:14px}
+ .hero-main{display:block;min-height:0;padding-top:24px}.hero-copy h1{font-size:46px;letter-spacing:.02em}
+ .hero-caption p{font-size:15px}.hero-drawing{margin:24px 0 0}.hero-foot{margin-top:24px}
+ .scroll-cue{font-size:13px;max-width:none}.section-heading h2,html:lang(ja) .section-heading h2{font-size:25px}
+ .objects-drawing{width:90px;margin-right:0;margin-left:15px}.city-section{padding-top:45px}
+ .everyday-section h2{font-size:27px}.everyday-section p{font-size:15px}
+ .map-note h2,html:lang(ja) .map-note h2{font-size:25px}.map-note p{font-size:14px}
+ .filter-bar{grid-template-columns:1fr 1fr}.filter-bar>label{padding:0}.filter-bar input,.select-trigger,.select-option{font-size:14px}
+ .workspace-heading h1{font-size:26px}.workspace-toolbar p{display:block}.workspace-toolbar #profile-note{font-size:13px}
+ .school-grid{grid-template-columns:1fr}.school-photo{height:230px}.school-info h3{font-size:19px}
+ body.map-mode #workspace{height:auto;display:block;padding-bottom:15px}.map-layout{grid-template-columns:1fr;grid-template-rows:300px 400px;height:700px}
+ .map-school-detail{width:260px}.map-school-detail h3{font-size:16px}.map-school-detail .line-link{font-size:14px}
+ .cloth-enter,.cloth-skip{font-size:13px}footer{gap:18px}footer>span{width:100%}
+}
