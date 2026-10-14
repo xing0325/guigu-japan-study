@@ -1,0 +1,11 @@
+{
+ "$schema":"https://json-schema.org/draft/2020-12/schema",
+ "title":"Study card envelope v1 (planned server contract)",
+ "type":"object","additionalProperties":false,
+ "required":["type","version","props"],
+ "properties":{
+  "type":{"enum":["visa","draft","budget","flight","housing","schools","compare","reviews","timeline","profile","chart","dictionary"]},
+  "version":{"const":1},
+  "props":{"type":"object","description":"Must additionally pass the selected card-specific schema before use; not a full provider structured-output schema."}
+ }
+}

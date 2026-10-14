@@ -1,0 +1,8 @@
+import test from 'node:test';import assert from 'node:assert/strict';
+import {catalog,route,calculateBudget,monthsBefore,escapeHTML} from '../dist/core.js';
+test('all requested interactions have unique allowlisted IDs',()=>{assert.equal(catalog.length,12);assert.equal(new Set(catalog.map(c=>c.id)).size,12);});
+test('Chinese natural queries select the intended card',()=>{for(const [q,id] of [['一年预算多少钱','budget'],['帮我写申请理由书','draft'],['签证怎么办','visa'],['租房和宿舍','housing'],['两所学校对比','compare'],['学校评价靠谱吗','reviews'],['申请流程甘特图','timeline'],['先做个人信息问卷','profile'],['预算占比图表','chart'],['敷金是什么意思','dictionary'],['查航班和行李','flight'],['东京学校地点','schools']])assert.equal(route(q)[0]?.id,id,q);});
+test('empty and unmatched are distinguished; multi-intent preserves alternatives',()=>{assert.equal(route('').length,12);assert.equal(route('zzzzzz').length,0);assert.ok(route('签证和预算').some(c=>c.id==='visa'));assert.ok(route('签证和预算').some(c=>c.id==='budget'));});
+test('budget includes one-off items once and recurring costs by months',()=>{const r=calculateBudget({tuition:800000,rent:60000,living:50000,setup:200000,months:12,rate:.05});assert.equal(r.total,2320000);assert.equal(r.cny,116000);assert.equal(calculateBudget({months:6}).total,1660000);});
+test('timeline offsets across year boundaries without timezone drift',()=>{assert.equal(monthsBefore('2027-04',6),'2026-10');assert.equal(monthsBefore('2027-01',1),'2026-12');assert.equal(monthsBefore('2027-04',0),'2027-04');});
+test('user-provided strings escape markup',()=>{assert.equal(escapeHTML('<img onerror="x">'), '&lt;img onerror=&quot;x&quot;&gt;');});

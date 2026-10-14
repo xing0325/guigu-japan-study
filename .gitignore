@@ -1,0 +1,11 @@
+.DS_Store
+node_modules/
+*.tar.gz
+.env
+.env.*
+!.env.example
+/artifacts/
+/rive-character/build/
+
+# Original nested working repository; portable website is exported to kame/.
+/akqa-interaction/

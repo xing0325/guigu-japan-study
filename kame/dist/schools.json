@@ -1,0 +1,1210 @@
+[
+  {
+    "row": 1,
+    "name": "早稻田京福语学院",
+    "japaneseName": "早稲田京福語学院",
+    "city": "东京",
+    "district": "早稻田・高田马场",
+    "address": "東京都新宿区喜久井町11-1",
+    "source": "https://www.kfla.co.jp/access/",
+    "access": "早稻田站",
+    "note": "",
+    "id": "1-早稻田京福语学院",
+    "coordinates": [
+      139.721512,
+      35.704681
+    ],
+    "geocode": {
+      "provider": "国土地理院 地址搜索",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E5%96%9C%E4%B9%85%E4%BA%95%E7%94%BA11-1",
+      "matchedAddress": "東京都新宿区喜久井町１１番地",
+      "accuracy": "address-area",
+      "checkedAt": "2026-09-28"
+    }
+  },
+  {
+    "row": 2,
+    "name": "早稻田文化馆",
+    "japaneseName": "早稲田文化館",
+    "city": "东京",
+    "district": "台东・中央・文京",
+    "address": "東京都台東区柳橋2-18-9",
+    "source": "https://waseda-bk.org/jp/?page_id=6776",
+    "access": "浅草桥一带",
+    "note": "",
+    "id": "2-早稻田文化馆",
+    "coordinates": [
+      139.789017,
+      35.698944
+    ],
+    "geocode": {
+      "provider": "国土地理院 地址搜索",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E6%9F%B3%E6%A9%8B2-18-9",
+      "matchedAddress": "東京都台東区柳橋二丁目１８番９号",
+      "accuracy": "address",
+      "checkedAt": "2026-09-28"
+    }
+  },
+  {
+    "row": 3,
+    "name": "早稻田言语学院",
+    "japaneseName": "早稲田言語学院",
+    "city": "东京",
+    "district": "早稻田・高田马场",
+    "address": "東京都新宿区早稲田鶴巻町543",
+    "source": "https://www.wls.co.jp/data/MJ.pdf",
+    "access": "江户川桥站步行约8分钟",
+    "note": "",
+    "id": "3-早稻田言语学院",
+    "coordinates": [
+      139.727356,
+      35.70797
+    ],
+    "geocode": {
+      "provider": "国土地理院 地址搜索",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E6%97%A9%E7%A8%B2%E7%94%B0%E9%B6%B4%E5%B7%BB%E7%94%BA543",
+      "matchedAddress": "東京都新宿区早稲田鶴巻町５４３番地",
+      "accuracy": "address",
+      "checkedAt": "2026-09-28"
+    }
+  },
+  {
+    "row": 4,
+    "name": "优尼塔斯东京校",
+    "japaneseName": "ユニタス日本語学校東京校",
+    "city": "东京",
+    "district": "新宿・大久保",
+    "address": "東京都新宿区大久保2-2-9",
+    "source": "https://www.unitas-ej.com/zh/",
+    "access": "东新宿站步行约5分钟",
+    "note": "22山京大厦3层。",
+    "id": "4-优尼塔斯东京校",
+    "coordinates": [
+      139.708496,
+      35.702755
+    ],
+    "geocode": {
+      "provider": "国土地理院 地址搜索",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E5%A4%A7%E4%B9%85%E4%BF%9D2-2-9",
+      "matchedAddress": "東京都新宿区大久保二丁目２番９号",
+      "accuracy": "address",
+      "checkedAt": "2026-09-28"
+    }
+  },
+  {
+    "row": 5,
+    "name": "修曼日本语学校东京校",
+    "japaneseName": "ヒューマンアカデミー日本語学校東京校",
+    "city": "东京",
+    "district": "早稻田・高田马场",
+    "address": "東京都新宿区高田馬場4-9-9",
+    "source": "https://hajl.athuman.com/guide/",
+    "access": "高田马场站步行约1分钟",
+    "note": "展示东京主校舍。",
+    "id": "5-修曼日本语学校东京校",
+    "coordinates": [
+      139.702347,
+      35.713528
+    ],
+    "geocode": {
+      "provider": "国土地理院 地址搜索",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E9%AB%98%E7%94%B0%E9%A6%AC%E5%A0%B44-9-9",
+      "matchedAddress": "東京都新宿区高田馬場四丁目９番９号",
+      "accuracy": "address",
+      "checkedAt": "2026-09-28"
+    }
+  },
+  {
+    "row": 6,
+    "name": "美都里慕日本语学校",
+    "japaneseName": "ミッドリーム日本語学校",
+    "city": "东京",
+    "district": "新宿・大久保",
+    "address": "東京都新宿区百人町2-7-11",
+    "source": "https://www.nisshinkyo.org/search/college.php?id=121",
+    "access": "新大久保站步行约3分钟",
+    "note": "按学校学则及日语教育振兴协会登记的本馆展示；官网联系页对本馆与2号馆的标注不同。",
+    "id": "6-美都里慕日本语学校",
+    "coordinates": [
+      139.699783,
+      35.704205
+    ],
+    "geocode": {
+      "provider": "国土地理院 地址搜索",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E7%99%BE%E4%BA%BA%E7%94%BA2-7-11",
+      "matchedAddress": "東京都新宿区百人町二丁目７番１１号",
+      "accuracy": "address",
+      "checkedAt": "2026-09-28"
+    }
+  },
+  {
+    "row": 7,
+    "name": "早稻田EDU王子校 · 原JCLI",
+    "japaneseName": "早稲田EDU日本語学校王子校",
+    "city": "东京",
+    "district": "池袋・北区・板桥",
+    "address": "東京都北区豊島8-4-1",
+    "source": "https://jclischool.com/en/about-en/outline/",
+    "access": "北区丰岛",
+    "note": "原JCLI日本语学校，2026年更名。",
+    "id": "7-早稻田EDU王子校 · 原JCLI",
+    "coordinates": [
+      139.740433,
+      35.764084
+    ],
+    "geocode": {
+      "provider": "国土地理院 地址搜索",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8C%97%E5%8C%BA%E8%B1%8A%E5%B3%B68-4-1",
+      "matchedAddress": "東京都北区豊島八丁目４番１号",
+      "accuracy": "address",
+      "checkedAt": "2026-09-28"
+    }
+  },
+  {
+    "row": 8,
+    "name": "ARC 新宿校",
+    "japaneseName": "アークアカデミー新宿校",
+    "city": "东京",
+    "district": "新宿・大久保",
+    "address": "東京都新宿区西新宿7-18-16",
+    "source": "https://www.arc-academy.net/",
+    "access": "西新宿一带",
+    "note": "东信西新宿大厦3层。",
+    "id": "8-ARC 新宿校",
+    "coordinates": [
+      139.697205,
+      35.69606
+    ],
+    "geocode": {
+      "provider": "国土地理院 地址搜索",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E8%A5%BF%E6%96%B0%E5%AE%BF7-18-16",
+      "matchedAddress": "東京都新宿区西新宿七丁目１８番１６号",
+      "accuracy": "address",
+      "checkedAt": "2026-09-28"
+    }
+  },
+  {
+    "row": 9,
+    "name": "东京国际文化学院",
+    "japaneseName": "東京国際文化学院",
+    "city": "东京",
+    "district": "新宿・大久保",
+    "address": "東京都新宿区百人町2-1-52",
+    "source": "https://www.tokyoia.com/",
+    "access": "新大久保一带",
+    "note": "展示第一校舍（本校）。",
+    "id": "9-东京国际文化学院",
+    "coordinates": [
+      139.702332,
+      35.701809
+    ],
+    "geocode": {
+      "provider": "国土地理院 地址搜索",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E7%99%BE%E4%BA%BA%E7%94%BA2-1-52",
+      "matchedAddress": "東京都新宿区百人町二丁目１番５２号",
+      "accuracy": "address",
+      "checkedAt": "2026-09-28"
+    }
+  },
+  {
+    "row": 10,
+    "name": "ISI 日本语学校 · 新宿本校",
+    "japaneseName": "ISIランゲージスクール新宿校",
+    "city": "东京",
+    "district": "新宿・大久保",
+    "address": "東京都新宿区西新宿8-15-1",
+    "source": "https://www.isi-education.com/ja/school/access/",
+    "access": "西新宿一带",
+    "note": "原清单未指定东京校区，暂以新宿本校为代表。ISI另有池袋、高田马场、涩谷原宿等校区，合作范围待确认。",
+    "id": "10-ISI 日本语学校 · 新宿本校",
+    "coordinates": [
+      139.691193,
+      35.695107
+    ],
+    "geocode": {
+      "provider": "国土地理院 地址搜索",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E8%A5%BF%E6%96%B0%E5%AE%BF8-15-1",
+      "matchedAddress": "東京都新宿区西新宿八丁目１５番１号",
+      "accuracy": "address",
+      "checkedAt": "2026-09-28"
+    }
+  },
+  {
+    "row": 11,
+    "name": "KCP 地球市民日本语学校",
+    "japaneseName": "KCP地球市民日本語学校",
+    "city": "东京",
+    "district": "新宿・大久保",
+    "address": "東京都新宿区新宿1-29-12",
+    "source": "https://www.kcp.ac.jp/contact/",
+    "access": "新宿御苑前站步行约3分钟",
+    "note": "",
+    "id": "11-KCP 地球市民日本语学校",
+    "coordinates": [
+      139.713135,
+      35.690655
+    ],
+    "geocode": {
+      "provider": "国土地理院 地址搜索",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E6%96%B0%E5%AE%BF1-29-12",
+      "matchedAddress": "東京都新宿区新宿一丁目２９番１２号",
+      "accuracy": "address",
+      "checkedAt": "2026-09-28"
+    }
+  },
+  {
+    "row": 12,
+    "name": "UJS 日本语学校",
+    "japaneseName": "UJS Language Institute",
+    "city": "东京",
+    "district": "涩谷・六本木",
+    "address": "東京都港区六本木3-3-29",
+    "source": "https://ujsli.jp/",
+    "access": "六本木一带",
+    "note": "",
+    "id": "12-UJS 日本语学校",
+    "coordinates": [
+      139.738052,
+      35.663433
+    ],
+    "geocode": {
+      "provider": "国土地理院 地址搜索",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA%E5%85%AD%E6%9C%AC%E6%9C%A83-3-29",
+      "matchedAddress": "東京都港区六本木三丁目３番",
+      "accuracy": "address-area",
+      "checkedAt": "2026-09-28"
+    }
+  },
+  {
+    "row": 13,
+    "name": "SGG 涩谷外语学院东京校",
+    "japaneseName": "渋谷外語学院",
+    "city": "东京",
+    "district": "早稻田・高田马场",
+    "address": "東京都新宿区高田馬場1-34-6",
+    "source": "https://recruit-sgg.jp/contact/",
+    "access": "高田马场站户山口步行约1分钟",
+    "note": "八光大厦2、3层。",
+    "id": "13-SGG 涩谷外语学院东京校",
+    "coordinates": [
+      139.703918,
+      35.71204
+    ],
+    "geocode": {
+      "provider": "国土地理院 地址搜索",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E9%AB%98%E7%94%B0%E9%A6%AC%E5%A0%B41-34-6",
+      "matchedAddress": "東京都新宿区高田馬場一丁目３４番６号",
+      "accuracy": "address",
+      "checkedAt": "2026-09-28"
+    }
+  },
+  {
+    "row": 14,
+    "name": "精英日本语学校",
+    "japaneseName": "エリート日本語学校",
+    "city": "东京",
+    "district": "新宿・大久保",
+    "address": "東京都新宿区歌舞伎町2-44-1",
+    "source": "https://cn.eliteschooljapan.com/access/",
+    "access": "歌舞伎町・新宿",
+    "note": "按官网一号馆（本校）展示，东京都健康广场Hygeia 12层。",
+    "id": "14-精英日本语学校",
+    "coordinates": [
+      139.701263,
+      35.696693
+    ],
+    "geocode": {
+      "provider": "国土地理院 地址搜索",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E6%AD%8C%E8%88%9E%E4%BC%8E%E7%94%BA2-44-1",
+      "matchedAddress": "東京都新宿区歌舞伎町二丁目４４番",
+      "accuracy": "address-area",
+      "checkedAt": "2026-09-28"
+    }
+  },
+  {
+    "row": 15,
+    "name": "安日本语学校 · 池袋校",
+    "japaneseName": "アンランゲージスクール池袋校",
+    "city": "东京",
+    "district": "池袋・北区・板桥",
+    "address": "東京都豊島区南池袋2-41-19",
+    "source": "https://an-js.com/",
+    "access": "东池袋站",
+    "note": "原清单未指定校区，暂以池袋校为代表。",
+    "id": "15-安日本语学校 · 池袋校",
+    "coordinates": [
+      139.719513,
+      35.725555
+    ],
+    "geocode": {
+      "provider": "国土地理院 地址搜索",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%B1%8A%E5%B3%B6%E5%8C%BA%E5%8D%97%E6%B1%A0%E8%A2%8B2-41-19",
+      "matchedAddress": "東京都豊島区南池袋二丁目４１番１９号",
+      "accuracy": "address",
+      "checkedAt": "2026-09-28"
+    }
+  },
+  {
+    "row": 16,
+    "name": "阳光日本语学校",
+    "japaneseName": "サンシャインランゲージスクール",
+    "city": "东京",
+    "district": "池袋・北区・板桥",
+    "address": "東京都豊島区池袋1-7-18",
+    "source": "https://www.sunshinesch.com/",
+    "access": "池袋站西口（北）步行约6分钟",
+    "note": "",
+    "id": "16-阳光日本语学校",
+    "coordinates": [
+      139.711456,
+      35.735863
+    ],
+    "geocode": {
+      "provider": "国土地理院 地址搜索",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%B1%8A%E5%B3%B6%E5%8C%BA%E6%B1%A0%E8%A2%8B1-7-18",
+      "matchedAddress": "東京都豊島区池袋一丁目７番１８号",
+      "accuracy": "address",
+      "checkedAt": "2026-09-28"
+    }
+  },
+  {
+    "row": 17,
+    "name": "富士国际语学院 · 新宿校",
+    "japaneseName": "フジ国際語学院",
+    "city": "东京",
+    "district": "新宿・大久保",
+    "address": "東京都新宿区北新宿1-7-21",
+    "source": "https://www.fuji-edu.co.jp/access/",
+    "access": "北新宿・大久保",
+    "note": "原清单未指定校区，暂展示新宿校。",
+    "id": "17-富士国际语学院 · 新宿校",
+    "coordinates": [
+      139.69577,
+      35.700584
+    ],
+    "geocode": {
+      "provider": "国土地理院 地址搜索",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E5%8C%97%E6%96%B0%E5%AE%BF1-7-21",
+      "matchedAddress": "東京都新宿区北新宿一丁目７番２１号",
+      "accuracy": "address",
+      "checkedAt": "2026-09-28"
+    }
+  },
+  {
+    "row": 18,
+    "name": "进和外语学院",
+    "japaneseName": "進和外語アカデミー",
+    "city": "东京",
+    "district": "早稻田・高田马场",
+    "address": "東京都新宿区高田馬場2-14-30",
+    "source": "https://shinwajpn.com/ja/about-us-jp/",
+    "access": "高田马场一带",
+    "note": "展示1号馆。",
+    "id": "18-进和外语学院",
+    "coordinates": [
+      139.707352,
+      35.712677
+    ],
+    "geocode": {
+      "provider": "国土地理院 地址搜索",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E9%AB%98%E7%94%B0%E9%A6%AC%E5%A0%B42-14-30",
+      "matchedAddress": "東京都新宿区高田馬場二丁目１４番３０号",
+      "accuracy": "address",
+      "checkedAt": "2026-09-28"
+    }
+  },
+  {
+    "row": 19,
+    "name": "京进日本语学校 · 新宿校",
+    "japaneseName": "京進ランゲージアカデミー新宿校",
+    "city": "东京",
+    "district": "早稻田・高田马场",
+    "address": "東京都新宿区西早稲田2-18-18",
+    "source": "https://www.kla.ac/ja/about/company/",
+    "access": "西早稻田一带",
+    "note": "原清单未指定东京校区，暂展示新宿校。东京另有OLJ、DBC校，合作范围待确认。",
+    "id": "19-京进日本语学校 · 新宿校",
+    "coordinates": [
+      139.711014,
+      35.71114
+    ],
+    "geocode": {
+      "provider": "国土地理院 地址搜索",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E8%A5%BF%E6%97%A9%E7%A8%B2%E7%94%B02-18-18",
+      "matchedAddress": "東京都新宿区西早稲田二丁目１８番１８号",
+      "accuracy": "address",
+      "checkedAt": "2026-09-28"
+    }
+  },
+  {
+    "row": 20,
+    "name": "东西日本语学校",
+    "japaneseName": "イーストウエスト日本語学校",
+    "city": "东京",
+    "district": "中野・江东・江户川",
+    "address": "東京都中野区中央2-36-9",
+    "source": "https://www1.tsk.or.jp/search/viewnl.php?id=288005",
+    "access": "东中野・中野坂上一带",
+    "note": "已核对东西日本语学校本校。清单括号中的“双叶、中野、早稻田、饭田桥”归属不明确，未将这些文字擅自拆成校区。",
+    "id": "20-东西日本语学校",
+    "coordinates": [
+      139.679703,
+      35.701149
+    ],
+    "geocode": {
+      "provider": "国土地理院 地址搜索",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E9%87%8E%E5%8C%BA%E4%B8%AD%E5%A4%AE2-36-9",
+      "matchedAddress": "東京都中野区中央二丁目３６番９号",
+      "accuracy": "address",
+      "checkedAt": "2026-09-28"
+    }
+  },
+  {
+    "row": 21,
+    "name": "KIJ 语学院东京校",
+    "japaneseName": "KIJ語学院東京校",
+    "city": "东京",
+    "district": "台东・中央・文京",
+    "address": "東京都文京区千駄木4-1-16",
+    "source": "https://www.kij123.com/kij/wp-content/uploads/admission_pamphlet_2025.pdf",
+    "access": "西日暮里站步行约7分钟",
+    "note": "107号。",
+    "id": "21-KIJ 语学院东京校",
+    "coordinates": [
+      139.760376,
+      35.731075
+    ],
+    "geocode": {
+      "provider": "国土地理院 地址搜索",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%87%E4%BA%AC%E5%8C%BA%E5%8D%83%E9%A7%84%E6%9C%A84-1-16",
+      "matchedAddress": "東京都文京区千駄木四丁目１番１６号",
+      "accuracy": "address",
+      "checkedAt": "2026-09-28"
+    }
+  },
+  {
+    "row": 22,
+    "name": "东京艺术文理学院",
+    "japaneseName": "HESED東京芸術文理学院",
+    "city": "东京",
+    "district": "台东・中央・文京",
+    "address": "東京都中央区日本橋浜町2-37-4",
+    "source": "https://www.hesedjp.net/about/nihonbashi/nihonbashi-outline/",
+    "access": "滨町站A1出口步行约2分钟",
+    "note": "",
+    "id": "22-东京艺术文理学院",
+    "coordinates": [
+      139.786804,
+      35.68919
+    ],
+    "geocode": {
+      "provider": "国土地理院 地址搜索",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B%E6%B5%9C%E7%94%BA2-37-4",
+      "matchedAddress": "東京都中央区日本橋浜町二丁目３７番４号",
+      "accuracy": "address",
+      "checkedAt": "2026-09-28"
+    }
+  },
+  {
+    "row": 23,
+    "name": "帝京平成大学附属日本语学校",
+    "japaneseName": "帝京平成大学附属日本語学校",
+    "city": "东京",
+    "district": "池袋・北区・板桥",
+    "address": "東京都豊島区東池袋4-26-10",
+    "source": "https://www.thu-jpschool.com/school/",
+    "access": "东池袋站步行约5分钟",
+    "note": "这里是语言学校校舍，并非大学池袋校区地址。",
+    "id": "23-帝京平成大学附属日本语学校",
+    "coordinates": [
+      139.718231,
+      35.728657
+    ],
+    "geocode": {
+      "provider": "国土地理院 地址搜索",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%B1%8A%E5%B3%B6%E5%8C%BA%E6%9D%B1%E6%B1%A0%E8%A2%8B4-26-10",
+      "matchedAddress": "東京都豊島区東池袋四丁目２６番１０号",
+      "accuracy": "address",
+      "checkedAt": "2026-09-28"
+    }
+  },
+  {
+    "row": 24,
+    "name": "国书日本语学校 · 志村校",
+    "japaneseName": "国書日本語学校",
+    "city": "东京",
+    "district": "池袋・北区・板桥",
+    "address": "東京都板橋区志村2-10-5",
+    "source": "https://www.kokusho.co.jp/smp/company.html",
+    "access": "志村坂上站步行约4分钟",
+    "note": "展示志村校舍，另有小豆泽校舍。",
+    "id": "24-国书日本语学校 · 志村校",
+    "coordinates": [
+      139.691132,
+      35.776245
+    ],
+    "geocode": {
+      "provider": "国土地理院 地址搜索",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%9D%BF%E6%A9%8B%E5%8C%BA%E5%BF%97%E6%9D%912-10-5",
+      "matchedAddress": "東京都板橋区志村二丁目１０番５号",
+      "accuracy": "address",
+      "checkedAt": "2026-09-28"
+    }
+  },
+  {
+    "row": 25,
+    "name": "三峰日本语学校",
+    "japaneseName": "ミツミネキャリアアカデミー日本語コース",
+    "city": "东京",
+    "district": "新宿・大久保",
+    "address": "東京都新宿区北新宿4-1-1",
+    "source": "https://mcaschool.jp/pdf/ch/202403-202607youko_ch.pdf",
+    "access": "大久保站步行约5分钟",
+    "note": "",
+    "id": "25-三峰日本语学校",
+    "coordinates": [
+      139.694641,
+      35.704018
+    ],
+    "geocode": {
+      "provider": "国土地理院 地址搜索",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E5%8C%97%E6%96%B0%E5%AE%BF4-1-1",
+      "matchedAddress": "東京都新宿区北新宿四丁目１番１号",
+      "accuracy": "address",
+      "checkedAt": "2026-09-28"
+    }
+  },
+  {
+    "row": 26,
+    "name": "迦南国际教育学院",
+    "japaneseName": "カナン国際教育学院",
+    "city": "东京",
+    "district": "中野・江东・江户川",
+    "address": "東京都江東区大島3-23-8",
+    "source": "https://canaantokyo.com/",
+    "access": "龟户站东口步行约5分钟",
+    "note": "原清单“迦南国际/迦南东京”拆为两校。",
+    "id": "26-迦南国际教育学院",
+    "coordinates": [
+      139.829086,
+      35.693554
+    ],
+    "geocode": {
+      "provider": "国土地理院 地址搜索",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%E5%A4%A7%E5%B3%B63-23-8",
+      "matchedAddress": "東京都江東区大島三丁目２３番８号",
+      "accuracy": "address",
+      "checkedAt": "2026-09-28"
+    }
+  },
+  {
+    "row": 26,
+    "name": "迦南东京日本语学校",
+    "japaneseName": "カナン東京日本語学校",
+    "city": "东京",
+    "district": "中野・江东・江户川",
+    "address": "東京都江東区亀戸6-56-15",
+    "source": "https://canaantokyo.com/",
+    "access": "龟户站东口步行约2–3分钟",
+    "note": "原清单“迦南国际/迦南东京”拆为两校。",
+    "id": "26-迦南东京日本语学校",
+    "coordinates": [
+      139.830582,
+      35.697075
+    ],
+    "geocode": {
+      "provider": "国土地理院 地址搜索",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%E4%BA%80%E6%88%B86-56-15",
+      "matchedAddress": "東京都江東区亀戸六丁目５６番１５号",
+      "accuracy": "address",
+      "checkedAt": "2026-09-28"
+    }
+  },
+  {
+    "row": 27,
+    "name": "共立 · 校名待确认",
+    "japaneseName": "共立",
+    "city": "东京",
+    "district": "校名待确认",
+    "address": "",
+    "source": "https://www.kyoritsu.ac.jp/",
+    "access": "",
+    "note": "清单仅写“共立”。东京同时存在共立日语学院和共立日本语学校，无法唯一对应；保留此项，暂不落点。",
+    "id": "27-共立 · 校名待确认"
+  },
+  {
+    "row": 28,
+    "name": "千驮谷日本语学校 · 本校",
+    "japaneseName": "千駄ヶ谷日本語学校",
+    "city": "东京",
+    "district": "早稻田・高田马场",
+    "address": "東京都新宿区下落合1-1-6",
+    "source": "https://group.jp-sji.org/access/",
+    "access": "高田马场一带",
+    "note": "原清单“千驮谷本校/西校”拆分展示。",
+    "id": "28-千驮谷日本语学校 · 本校",
+    "coordinates": [
+      139.703751,
+      35.715431
+    ],
+    "geocode": {
+      "provider": "国土地理院 地址搜索",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E4%B8%8B%E8%90%BD%E5%90%881-1-6",
+      "matchedAddress": "東京都新宿区下落合一丁目１番６号",
+      "accuracy": "address",
+      "checkedAt": "2026-09-28"
+    }
+  },
+  {
+    "row": 28,
+    "name": "千驮谷附属日本语学校 · 原西校",
+    "japaneseName": "千駄ヶ谷日本語教育研究所付属日本語学校",
+    "city": "东京",
+    "district": "早稻田・高田马场",
+    "address": "東京都新宿区中落合1-1-29",
+    "source": "https://group.jp-sji.org/access/",
+    "access": "下落合站附近",
+    "note": "原千驮谷日本语教育研究所西校，现为附属日本语学校。",
+    "id": "28-千驮谷附属日本语学校 · 原西校",
+    "coordinates": [
+      139.694534,
+      35.716454
+    ],
+    "geocode": {
+      "provider": "国土地理院 地址搜索",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%96%B0%E5%AE%BF%E5%8C%BA%E4%B8%AD%E8%90%BD%E5%90%881-1-29",
+      "matchedAddress": "東京都新宿区中落合一丁目１番２９号",
+      "accuracy": "address",
+      "checkedAt": "2026-09-28"
+    }
+  },
+  {
+    "row": 29,
+    "name": "樱丘国际日本语学校",
+    "japaneseName": "桜丘国際日本語学校",
+    "city": "东京",
+    "district": "涩谷・六本木",
+    "address": "東京都渋谷区桜丘町17-5",
+    "source": "https://sakura-school.com/access/index.html",
+    "access": "涩谷站附近",
+    "note": "",
+    "id": "29-樱丘国际日本语学校",
+    "coordinates": [
+      139.700989,
+      35.656086
+    ],
+    "geocode": {
+      "provider": "国土地理院 地址搜索",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E6%A1%9C%E4%B8%98%E7%94%BA17-5",
+      "matchedAddress": "東京都渋谷区桜丘町１７番５号",
+      "accuracy": "address",
+      "checkedAt": "2026-09-28"
+    }
+  },
+  {
+    "row": 30,
+    "name": "武藏浦和日本语学院",
+    "japaneseName": "武蔵浦和日本語学院",
+    "city": "埼玉",
+    "district": "埼玉",
+    "address": "埼玉県さいたま市南区鹿手袋3-23-4",
+    "source": "https://www.musashi-nihongo.ac.jp/access/",
+    "access": "武藏浦和・中浦和一带",
+    "note": "原清单列入东京，实际位于埼玉县埼玉市。展示官网当前本部校舍。",
+    "id": "30-武藏浦和日本语学院",
+    "coordinates": [
+      139.638275,
+      35.849663
+    ],
+    "geocode": {
+      "provider": "国土地理院 地址搜索",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%9F%BC%E7%8E%89%E7%9C%8C%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%E5%8D%97%E5%8C%BA%E9%B9%BF%E6%89%8B%E8%A2%8B3-23-4",
+      "matchedAddress": "埼玉県さいたま市南区鹿手袋三丁目２３番４号",
+      "accuracy": "address",
+      "checkedAt": "2026-09-28"
+    }
+  },
+  {
+    "row": 31,
+    "name": "东洋言语学院",
+    "japaneseName": "東洋言語学院",
+    "city": "东京",
+    "district": "中野・江东・江户川",
+    "address": "東京都江戸川区西葛西7-6-3",
+    "source": "https://www.tls-japan.com/access",
+    "access": "西葛西站南口步行约8分钟",
+    "note": "",
+    "id": "31-东洋言语学院",
+    "coordinates": [
+      139.859314,
+      35.658775
+    ],
+    "geocode": {
+      "provider": "国土地理院 地址搜索",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%88%B8%E5%B7%9D%E5%8C%BA%E8%A5%BF%E8%91%9B%E8%A5%BF7-6-3",
+      "matchedAddress": "東京都江戸川区西葛西七丁目６番３号",
+      "accuracy": "address",
+      "checkedAt": "2026-09-28"
+    }
+  },
+  {
+    "row": 32,
+    "name": "修曼日本语学校大阪校",
+    "japaneseName": "ヒューマンアカデミー日本語学校大阪校",
+    "city": "大阪",
+    "district": "本町・堺筋本町",
+    "address": "大阪府大阪市中央区北久宝寺町2-5-9",
+    "source": "https://hajl.athuman.com/guide/",
+    "access": "本町站11号出口步行约5分钟",
+    "note": "展示大阪主校舍。",
+    "id": "32-修曼日本语学校大阪校",
+    "coordinates": [
+      135.50386,
+      34.680008
+    ],
+    "geocode": {
+      "provider": "国土地理院 地址搜索",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8C%97%E4%B9%85%E5%AE%9D%E5%AF%BA%E7%94%BA2-5-9",
+      "matchedAddress": "大阪府大阪市中央区北久宝寺町二丁目５番９号",
+      "accuracy": "address",
+      "checkedAt": "2026-09-28"
+    }
+  },
+  {
+    "row": 33,
+    "name": "ISI 日本语学校大阪校",
+    "japaneseName": "ISIランゲージスクール大阪校",
+    "city": "大阪",
+    "district": "心斋桥",
+    "address": "大阪府大阪市中央区南船場3-5-8",
+    "source": "https://www.isi-education.com/ja/school/access/",
+    "access": "心斋桥一带",
+    "note": "Oak心斋桥大厦5层。",
+    "id": "33-ISI 日本语学校大阪校",
+    "coordinates": [
+      135.502182,
+      34.675327
+    ],
+    "geocode": {
+      "provider": "国土地理院 地址搜索",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8D%97%E8%88%B9%E5%A0%B43-5-8",
+      "matchedAddress": "大阪府大阪市中央区南船場三丁目５番８号",
+      "accuracy": "address",
+      "checkedAt": "2026-09-28"
+    }
+  },
+  {
+    "row": 34,
+    "name": "SGG 外语学院大阪校",
+    "japaneseName": "SGG外語学院大阪校",
+    "city": "大阪",
+    "district": "本町・堺筋本町",
+    "address": "大阪府大阪市中央区南本町3-4-7",
+    "source": "https://osaka.sgg-school.com/about/access/",
+    "access": "本町站步行约2分钟",
+    "note": "第一住建御堂筋本町大厦3、5层。",
+    "id": "34-SGG 外语学院大阪校",
+    "coordinates": [
+      135.502167,
+      34.682796
+    ],
+    "geocode": {
+      "provider": "国土地理院 地址搜索",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8D%97%E6%9C%AC%E7%94%BA3-4-7",
+      "matchedAddress": "大阪府大阪市中央区南本町三丁目４番７号",
+      "accuracy": "address",
+      "checkedAt": "2026-09-28"
+    }
+  },
+  {
+    "row": 35,
+    "name": "京进日本语学校 · 大阪中央校",
+    "japaneseName": "京進ランゲージアカデミー大阪中央校",
+    "city": "大阪",
+    "district": "淀屋桥",
+    "address": "大阪府大阪市中央区平野町3-4-14",
+    "source": "https://www.kla.ac/ja/admissions/guidelines/",
+    "access": "淀屋桥一带",
+    "note": "原清单未指定大阪校区，暂展示大阪中央校（2层）。大阪浪速校位于同栋3层，合作范围待确认。",
+    "id": "35-京进日本语学校 · 大阪中央校",
+    "coordinates": [
+      135.50174,
+      34.687946
+    ],
+    "geocode": {
+      "provider": "国土地理院 地址搜索",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%B9%B3%E9%87%8E%E7%94%BA3-4-14",
+      "matchedAddress": "大阪府大阪市中央区平野町三丁目４番１４号",
+      "accuracy": "address",
+      "checkedAt": "2026-09-28"
+    }
+  },
+  {
+    "row": 36,
+    "name": "First Study 日本语学校",
+    "japaneseName": "ファースト・スタディ日本語学校大阪本校",
+    "city": "大阪",
+    "district": "森之宫・玉造",
+    "address": "大阪府大阪市中央区玉造1-21-8",
+    "source": "https://firststudy.net/access.html",
+    "access": "森之宫站步行约5分钟",
+    "note": "展示大阪本校。",
+    "id": "36-First Study 日本语学校",
+    "coordinates": [
+      135.532578,
+      34.677261
+    ],
+    "geocode": {
+      "provider": "国土地理院 地址搜索",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E7%8E%89%E9%80%A01-21-8",
+      "matchedAddress": "大阪府大阪市中央区玉造一丁目２１番８号",
+      "accuracy": "address",
+      "checkedAt": "2026-09-28"
+    }
+  },
+  {
+    "row": 37,
+    "name": "ARC 京都校",
+    "japaneseName": "ARC京都日本語学校",
+    "city": "京都",
+    "district": "京都",
+    "address": "京都府京都市中京区弁財天町297",
+    "source": "https://www.arc-academy.net/",
+    "access": "京都市中京区",
+    "note": "",
+    "id": "37-ARC 京都校",
+    "coordinates": [
+      135.756378,
+      35.015541
+    ],
+    "geocode": {
+      "provider": "国土地理院 地址搜索",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E5%BC%81%E8%B2%A1%E5%A4%A9%E7%94%BA297",
+      "matchedAddress": "京都府京都市中京区弁財天町２９７番地",
+      "accuracy": "address",
+      "checkedAt": "2026-09-28"
+    }
+  },
+  {
+    "row": 38,
+    "name": "ISI 日本语学校京都校",
+    "japaneseName": "ISIランゲージスクール京都校",
+    "city": "京都",
+    "district": "京都",
+    "address": "京都府京都市中京区西ノ京両町6-6",
+    "source": "https://www.isi-education.com/ja/school/access/",
+    "access": "西之京两町",
+    "note": "",
+    "id": "38-ISI 日本语学校京都校",
+    "coordinates": [
+      135.735413,
+      35.017769
+    ],
+    "geocode": {
+      "provider": "国土地理院 地址搜索",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E8%A5%BF%E3%83%8E%E4%BA%AC%E4%B8%A1%E7%94%BA6-6",
+      "matchedAddress": "京都府京都市中京区西ノ京両町６番地",
+      "accuracy": "address-area",
+      "checkedAt": "2026-09-28"
+    }
+  },
+  {
+    "row": 39,
+    "name": "京进日本语学校京都中央校",
+    "japaneseName": "京進ランゲージアカデミー京都中央校",
+    "city": "京都",
+    "district": "京都",
+    "address": "京都府京都市下京区坂東屋町272",
+    "source": "https://group.kyoshin.co.jp/service/",
+    "access": "五条站附近",
+    "note": "官方完整地址：京都市下京区室町通五条上る坂東屋町272。",
+    "id": "39-京进日本语学校京都中央校",
+    "coordinates": [
+      135.758316,
+      34.996914
+    ],
+    "geocode": {
+      "provider": "国土地理院 地址搜索",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E5%9D%82%E6%9D%B1%E5%B1%8B%E7%94%BA272",
+      "matchedAddress": "京都府京都市下京区坂東屋町２７２番地",
+      "accuracy": "address",
+      "checkedAt": "2026-09-28"
+    }
+  },
+  {
+    "row": 40,
+    "name": "京进日本语学校神户校",
+    "japaneseName": "京進ランゲージアカデミー神戸校",
+    "city": "神户",
+    "district": "神户",
+    "address": "兵庫県神戸市灘区将軍通4-1-3",
+    "source": "https://www.kla.ac/ja/admissions/guidelines/",
+    "access": "神户市滩区",
+    "note": "",
+    "id": "40-京进日本语学校神户校",
+    "coordinates": [
+      135.228958,
+      34.71434
+    ],
+    "geocode": {
+      "provider": "国土地理院 地址搜索",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E7%81%98%E5%8C%BA%E5%B0%86%E8%BB%8D%E9%80%9A4-1-3",
+      "matchedAddress": "兵庫県神戸市灘区将軍通四丁目１番３号",
+      "accuracy": "address",
+      "checkedAt": "2026-09-28"
+    }
+  },
+  {
+    "row": 41,
+    "name": "令和国际日本语学院",
+    "japaneseName": "令和国際日本語学院",
+    "city": "川崎",
+    "district": "横滨・川崎",
+    "address": "神奈川県川崎市川崎区小川町10-5",
+    "source": "https://reiwanippon.ac.jp/zh/",
+    "access": "川崎站附近",
+    "note": "清单标注横滨，官网地址实际位于川崎。原名早稻田EDU日本语学校横滨校。",
+    "id": "41-令和国际日本语学院",
+    "coordinates": [
+      139.696396,
+      35.526379
+    ],
+    "geocode": {
+      "provider": "国土地理院 地址搜索",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%B7%9D%E5%B4%8E%E5%B8%82%E5%B7%9D%E5%B4%8E%E5%8C%BA%E5%B0%8F%E5%B7%9D%E7%94%BA10-5",
+      "matchedAddress": "神奈川県川崎市川崎区小川町１０番",
+      "accuracy": "address-area",
+      "checkedAt": "2026-09-28"
+    }
+  },
+  {
+    "row": 42,
+    "name": "横滨国际教育学院",
+    "japaneseName": "横浜国際教育学院",
+    "city": "横滨",
+    "district": "横滨・川崎",
+    "address": "神奈川県横浜市西区宮崎町43",
+    "source": "https://yiea.com/access/",
+    "access": "樱木町站步行约4分钟",
+    "note": "",
+    "id": "42-横滨国际教育学院",
+    "coordinates": [
+      139.627747,
+      35.451656
+    ],
+    "geocode": {
+      "provider": "国土地理院 地址搜索",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%A8%AA%E6%B5%9C%E5%B8%82%E8%A5%BF%E5%8C%BA%E5%AE%AE%E5%B4%8E%E7%94%BA43",
+      "matchedAddress": "神奈川県横浜市西区宮崎町４３番地",
+      "accuracy": "address",
+      "checkedAt": "2026-09-28"
+    }
+  },
+  {
+    "row": 43,
+    "name": "优尼塔斯甲府校",
+    "japaneseName": "ユニタス日本語学校",
+    "city": "甲府",
+    "district": "甲府",
+    "address": "山梨県甲府市宝1-20-22",
+    "source": "https://www.unitas-ej.com/zh/",
+    "access": "甲府站步行约7分钟",
+    "note": "",
+    "id": "43-优尼塔斯甲府校",
+    "coordinates": [
+      138.5625,
+      35.66692
+    ],
+    "geocode": {
+      "provider": "国土地理院 地址搜索",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%B1%B1%E6%A2%A8%E7%9C%8C%E7%94%B2%E5%BA%9C%E5%B8%82%E5%AE%9D1-20-22",
+      "matchedAddress": "山梨県甲府市宝一丁目２０番２２号",
+      "accuracy": "address",
+      "checkedAt": "2026-09-28"
+    }
+  },
+  {
+    "row": 44,
+    "name": "北九州 YMCA 学院",
+    "japaneseName": "北九州YMCA学院",
+    "city": "北九州",
+    "district": "福冈・北九州",
+    "address": "福岡県北九州市小倉北区鍛冶町2-3-9",
+    "source": "https://www.ymcajapan.org/about/local/kitakyushu/",
+    "access": "小仓北区",
+    "note": "清单标注福冈，实际城市为福冈县北九州市。",
+    "id": "44-北九州 YMCA 学院",
+    "coordinates": [
+      130.886581,
+      33.88245
+    ],
+    "geocode": {
+      "provider": "国土地理院 地址搜索",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A6%8F%E5%B2%A1%E7%9C%8C%E5%8C%97%E4%B9%9D%E5%B7%9E%E5%B8%82%E5%B0%8F%E5%80%89%E5%8C%97%E5%8C%BA%E9%8D%9B%E5%86%B6%E7%94%BA2-3-9",
+      "matchedAddress": "福岡県北九州市小倉北区鍛冶町二丁目３番９号",
+      "accuracy": "address",
+      "checkedAt": "2026-09-28"
+    }
+  },
+  {
+    "row": 45,
+    "name": "东京亚细亚学友会",
+    "japaneseName": "東京アジア学友会",
+    "city": "埼玉",
+    "district": "埼玉",
+    "address": "埼玉県越谷市蒲生寿町3-33",
+    "source": "https://www.tokyoasia.com/",
+    "access": "越谷市蒲生",
+    "note": "",
+    "id": "45-东京亚细亚学友会",
+    "coordinates": [
+      139.792404,
+      35.868355
+    ],
+    "geocode": {
+      "provider": "国土地理院 地址搜索",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%9F%BC%E7%8E%89%E7%9C%8C%E8%B6%8A%E8%B0%B7%E5%B8%82%E8%92%B2%E7%94%9F%E5%AF%BF%E7%94%BA3-33",
+      "matchedAddress": "埼玉県越谷市蒲生寿町３番３３号",
+      "accuracy": "address",
+      "checkedAt": "2026-09-28"
+    }
+  },
+  {
+    "row": 46,
+    "name": "KIJ 语学院神户本校",
+    "japaneseName": "KIJ語学院本校",
+    "city": "神户",
+    "district": "神户",
+    "address": "兵庫県神戸市兵庫区浜崎通3-7",
+    "source": "https://www.kij123.com/kij/wp-content/uploads/admission_pamphlet_2025.pdf",
+    "access": "兵库站步行约2分钟",
+    "note": "",
+    "id": "46-KIJ 语学院神户本校",
+    "coordinates": [
+      135.166183,
+      34.667572
+    ],
+    "geocode": {
+      "provider": "国土地理院 地址搜索",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E5%85%B5%E5%BA%AB%E5%8C%BA%E6%B5%9C%E5%B4%8E%E9%80%9A3-7",
+      "matchedAddress": "兵庫県神戸市兵庫区浜崎通３番７号",
+      "accuracy": "address",
+      "checkedAt": "2026-09-28"
+    }
+  },
+  {
+    "row": 47,
+    "name": "九州外国语学院",
+    "japaneseName": "九州外国語学院",
+    "city": "福冈",
+    "district": "福冈・北九州",
+    "address": "福岡県福岡市博多区中呉服町2-1",
+    "source": "https://japanview.tv/study/40135/",
+    "access": "吴服町站附近",
+    "note": "地址亦与福冈县官方教育机构名单一致。",
+    "id": "47-九州外国语学院",
+    "coordinates": [
+      130.409134,
+      33.598503
+    ],
+    "geocode": {
+      "provider": "国土地理院 地址搜索",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E7%A6%8F%E5%B2%A1%E7%9C%8C%E7%A6%8F%E5%B2%A1%E5%B8%82%E5%8D%9A%E5%A4%9A%E5%8C%BA%E4%B8%AD%E5%91%89%E6%9C%8D%E7%94%BA2-1",
+      "matchedAddress": "福岡県福岡市博多区中呉服町２番１号",
+      "accuracy": "address",
+      "checkedAt": "2026-09-28"
+    }
+  },
+  {
+    "row": 48,
+    "name": "北海道日本语学院札幌本校",
+    "japaneseName": "北海道日本語学院札幌本校",
+    "city": "札幌",
+    "district": "北海道",
+    "address": "北海道札幌市中央区北6条西25-1-5",
+    "source": "https://h-nihongo.org/access.html",
+    "access": "西28丁目站1号出口步行约5分钟",
+    "note": "",
+    "id": "48-北海道日本语学院札幌本校",
+    "coordinates": [
+      141.318146,
+      43.063118
+    ],
+    "geocode": {
+      "provider": "国土地理院 地址搜索",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%8C%97%E6%B5%B7%E9%81%93%E6%9C%AD%E5%B9%8C%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8C%976%E6%9D%A1%E8%A5%BF25-1-5",
+      "matchedAddress": "北海道札幌市中央区北六条西二十五丁目１番５号",
+      "accuracy": "address",
+      "checkedAt": "2026-09-28"
+    }
+  },
+  {
+    "row": 49,
+    "name": "大原学园函馆校",
+    "japaneseName": "大原公務員・医療事務・語学専門学校函館校",
+    "city": "函馆",
+    "district": "北海道",
+    "address": "北海道函館市若松町7-5",
+    "source": "https://www.o-hara.ac.jp/senmon/school/hakodate/access/",
+    "access": "函馆站附近",
+    "note": "清单附有招生限制备注，未作为当前招生政策发布；申请条件请向学校核实。",
+    "id": "49-大原学园函馆校",
+    "coordinates": [
+      140.726501,
+      41.771488
+    ],
+    "geocode": {
+      "provider": "国土地理院 地址搜索",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%8C%97%E6%B5%B7%E9%81%93%E5%87%BD%E9%A4%A8%E5%B8%82%E8%8B%A5%E6%9D%BE%E7%94%BA7-5",
+      "matchedAddress": "北海道函館市若松町７番５号",
+      "accuracy": "address",
+      "checkedAt": "2026-09-28"
+    }
+  },
+  {
+    "row": 50,
+    "name": "神户东洋日本语学院",
+    "japaneseName": "神戸東洋日本語学院",
+    "city": "神户",
+    "district": "神户",
+    "address": "兵庫県神戸市中央区北長狭通4-5-7",
+    "source": "https://jp-college.com/jp/access/",
+    "access": "元町站步行约3分钟",
+    "note": "采用学校官网当前地址。",
+    "id": "50-神户东洋日本语学院",
+    "coordinates": [
+      135.186951,
+      34.691116
+    ],
+    "geocode": {
+      "provider": "国土地理院 地址搜索",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8C%97%E9%95%B7%E7%8B%AD%E9%80%9A4-5-7",
+      "matchedAddress": "兵庫県神戸市中央区北長狭通四丁目５番７号",
+      "accuracy": "address",
+      "checkedAt": "2026-09-28"
+    }
+  },
+  {
+    "row": 51,
+    "name": "ICLC 国际言语文化中心",
+    "japaneseName": "国際言語文化センター附属日本語学校",
+    "city": "那霸",
+    "district": "冲绳",
+    "address": "沖縄県那覇市田原1-4-1",
+    "source": "https://www.iclcjapan.com/zh/about-iclc",
+    "access": "那霸市田原",
+    "note": "Sanhills田原2层。",
+    "id": "51-ICLC 国际言语文化中心",
+    "coordinates": [
+      127.669006,
+      26.198778
+    ],
+    "geocode": {
+      "provider": "国土地理院 地址搜索",
+      "url": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%B2%96%E7%B8%84%E7%9C%8C%E9%82%A3%E8%A6%87%E5%B8%82%E7%94%B0%E5%8E%9F1-4-1",
+      "matchedAddress": "沖縄県那覇市田原一丁目４番",
+      "accuracy": "address-area",
+      "checkedAt": "2026-09-28"
+    }
+  }
+]

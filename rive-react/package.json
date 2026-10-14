@@ -1,0 +1,21 @@
+{
+  "name": "guigu-rive-character",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "vite build",
+    "preview": "vite preview --host 127.0.0.1",
+    "test": "node tests/browser.cjs",
+    "rive:build": "node scripts/build-rive.mjs"
+  },
+  "dependencies": {
+    "@rive-app/react-webgl2": "4.36.0",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "vite": "8.3.4"
+  },
+  "devDependencies": {
+    "playwright": "1.62.1"
+  }
+}

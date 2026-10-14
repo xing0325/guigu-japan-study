@@ -1,0 +1,4 @@
+const tabs=[...document.querySelectorAll('[role=tab]')],frame=document.querySelector('#site-frame');let mode=innerWidth<=650?1:0;
+function fit(){if(mode===0){const width=Math.max(1024,innerWidth),scale=Math.min(1,innerWidth/width);frame.style.width=width+'px';frame.style.height=innerHeight/scale+'px';frame.style.position='absolute';frame.style.left='50%';frame.style.transform=`translateX(-50%) scale(${scale})`;frame.style.transformOrigin='50% 0';}else{frame.removeAttribute('style');}}
+function select(index){mode=index;document.body.classList.toggle('phone',index===1);tabs.forEach((tab,i)=>{tab.setAttribute('aria-selected',String(i===index));tab.tabIndex=i===index?0:-1;});fit();}
+tabs.forEach((tab,i)=>{tab.addEventListener('click',()=>select(i));tab.addEventListener('keydown',event=>{if(['ArrowLeft','ArrowRight'].includes(event.key)){event.preventDefault();const next=1-i;select(next);tabs[next].focus();}});});addEventListener('resize',fit);select(mode);

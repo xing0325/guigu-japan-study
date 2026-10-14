@@ -1,0 +1,18 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#111714"><title>KAME · 亀谷進学ナビ</title><meta name="description" content="从一个问题开始，把日本留学变成一步步能完成的计划。预算、选校、签证与日语，随问随展开。"><link rel="stylesheet" href="style.css"><link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='18' fill='%23b9d9bd'/%3E%3Ctext x='12' y='45' font-size='40'%3EK%3C/text%3E%3C/svg%3E"></head><body>
+<main id="landing"><div class="atmosphere"><video autoplay muted loop playsinline aria-hidden="true" poster="assets/footer.webp"><source src="assets/footer.mp4" type="video/mp4"></video></div><header class="brand"><span class="brand-name">KAME</span><span class="brand-jp" lang="ja">亀谷進学ナビ</span></header><span class="preview-badge"><i></i>交互预览 · 模型待接入</span><div class="hero"><h1>比豆包更好用的<br><span>日本留学助手</span></h1></div></main>
+<div id="veil"></div><section id="workspace" class="workspace" aria-label="留学助手">
+<header class="chat-header" hidden><button id="minimize" aria-label="收起对话">↙</button><div><strong>一起，把下一步想清楚</strong><small id="context-label">KAME · 留学手帖</small></div><button id="new-chat">新对话 ＋</button></header>
+<div id="suggestions-wrap" class="suggestions-wrap"><div class="suggestions-inner"><div class="suggestion-heading"><span id="suggestion-label">从你在意的事开始</span><span id="suggestion-count"></span></div><div id="suggestions" role="listbox" aria-label="留学需求栏目"></div></div></div>
+<div id="conversation" class="conversation" role="log" aria-label="对话记录" hidden></div>
+<form id="composer" autocomplete="off"><span id="input-spark" aria-hidden="true">✳</span><input id="query" type="text" role="combobox" aria-label="说说你的留学问题" aria-expanded="false" aria-controls="suggestions" aria-autocomplete="list" placeholder="去日本留学，一年需要多少钱？"><button id="clear-input" type="button" aria-label="清空输入" hidden>×</button><button id="submit" type="submit" aria-label="发送问题">↑</button></form>
+<nav id="quick-nav" aria-label="常用留学需求">
+<button data-category="schools" aria-label="选学校"><span aria-hidden="true">⌂</span><small>选学校</small></button>
+<button data-category="budget" aria-label="算预算"><span aria-hidden="true">¥</span><small>算预算</small></button>
+<button data-category="visa" aria-label="办签证"><span aria-hidden="true">▤</span><small>办签证</small></button>
+<button data-category="timeline" aria-label="申请计划"><span aria-hidden="true">▥</span><small>申请计划</small></button>
+<button data-category="dictionary" aria-label="日语小卡"><span aria-hidden="true">あ</span><small>日语小卡</small></button>
+<button data-browse aria-label="更多需求" aria-expanded="false"><span aria-hidden="true">＋</span><small>更多</small></button>
+<button id="resume" aria-label="继续对话" hidden><span aria-hidden="true">↗</span><small>继续对话</small></button>
+</nav><div id="quick-more" hidden aria-label="更多留学需求"><button data-category="draft">申请写作</button><button data-category="flight">航班</button><button data-category="housing">租房</button><button data-category="compare">学校对比</button><button data-category="reviews">学校评价</button><button data-category="profile">了解你</button><button data-category="chart">图表</button></div>
+<div class="chat-footnote" hidden>当前使用预设卡片演示；你填写的信息仅用于本次页面体验。</div>
+</section><div id="toast" role="status"></div><div id="live" class="sr-only" aria-live="polite"></div><script type="module" src="app.js"></script></body></html>
